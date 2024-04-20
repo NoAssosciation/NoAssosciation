@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoAssosciation
 - 👀 I’m interested in Malware Analysis / Penetration Testing
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on custom Osint tools.
 - 📫 How to reach me @NoAssosciation on telegram or noassosciation@mail2tor.com (Tor mail rarely checked maybe twice a month)
 - 😄 Pronouns: Im a guy.
