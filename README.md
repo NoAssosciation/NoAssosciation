@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @NoAssosciation
-- 👀 I’m interested in Malware Analysis / Penetration Testing
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on custom Osint tools.
-- 📫 How to reach me @NoAssosciation on telegram or noassosciation@mail2tor.com (Tor mail rarely checked maybe twice a month)
-- 😄 Pronouns: Im a guy.
-- ⚡ Fun fact: 15 years old.
-
-<!---
-NoAssosciation/NoAssosciation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9F28F7&random=false&width=435&lines=Hello%2C+I+am+NoAssosciation!;CyberSecurity+enthusiast;Telegram%3A+%40NoAssosciation;Email+(Rarely+Checked)+NoAsssciation%40mail2tor.com;Some+fun+facts+now!;I+am+15+years+old.;I+don't+like+being+called+a+skid+%3A(;I+am+a+beginner+programmer+focuses+on+red+teaming)](https://git.io/typing-svg)
