@@ -6,7 +6,7 @@
 
 - `💉` **`maldev`**<br>
 \\___[ Myattempts on learning and creating malware<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `asm`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`,
 
 ⭐ **Certifications**: `C|EH Practical`, `eJPT`, `eCPPT`, `CRTP`, `CRTE*`, `OSCP*`, `PNPT*`
 
