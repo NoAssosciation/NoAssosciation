@@ -8,7 +8,7 @@
 \\___[  My attempts on learning and creating malware<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`,
 
-⭐ **Certifications**: `C|EH Practical`, `eJPT`, `[eCPPT](https://security.ine.com/certifications/ecppt-certification/)`, `CRTP`, `CRTE*`, `OSCP*`, `PNPT*`
+⭐ **Certifications**: `C|EH Practical`, `eJPT`, `[eCPPT(https://security.ine.com/certifications/ecppt-certification/)]`, `CRTP`, `CRTE*`, `OSCP*`, `PNPT*`
 
 ## `👨‍💻` DEVELOPMENT
 [![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,neovim,vim,visualstudio,vscode,arch,windows)](https://skillicons.dev)
