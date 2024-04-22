@@ -14,4 +14,4 @@
 [![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,neovim,vim,visualstudio,vscode,arch,windows)](https://skillicons.dev)
 
 
-[![](https://skillicons.dev/icons?i=youtube)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
