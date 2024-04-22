@@ -15,5 +15,8 @@
 
 
 
-## `👨‍💻` SOCIALS
-[![https://www.linkedin.com/in/no-assosciation](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) 
+## `🤳` SOCIALS
+[![](https://skillicons.dev/icons?i=linkedin,)](https://skillicons.dev) 
+
+
+🤳 **Socials can be found linked on profile**
