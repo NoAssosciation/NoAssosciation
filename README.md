@@ -8,6 +8,10 @@
 \\___[  My attempts on learning and creating malware<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`,
 
+- `💰` **`bloxflip-autogambler`**<br>
+\\___[  My open source and free auito gambler for bloxflip<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `TypeScript, HTML, JavaScript`,
+
 ⭐ **Certifications**: [C|EH Practical](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh-v12/), [eJPT](https://security.ine.com/certifications/ejpt-certification/), [eCPPT](https://security.ine.com/certifications/ecppt-certification/), [CRTP](https://www.alteredsecurity.com/adlab), [CRTE*](https://www.credential.net/group/140741), [PNPT*](https://certifications.tcm-sec.com/pnpt/)
 
 ## `👨‍💻` DEVELOPMENT
