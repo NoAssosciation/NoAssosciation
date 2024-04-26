@@ -18,7 +18,7 @@
 [![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,neovim,vim,visualstudio,vscode,arch,windows)](https://skillicons.dev)
 
 
-## 📈**Any donations appreciated!**
+## 📈**  Any donations appreciated!**
 
 ![image](https://github.com/NoAssosciation/NoAssosciation/assets/166069147/6a7e7282-ebf8-469d-a2a7-dfba4398c721)
 
