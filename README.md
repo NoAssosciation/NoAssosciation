@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `TypeScript, HTML, JavaScript`,
 
 - `🌙` **`NightFall`**<br>
-\\___[  Open source Osint tool created by me<br>
+\\___[  Open source Osint tool<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
 
 ⭐ **Certifications**: [C|EH Practical](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh-v12/), [eJPT](https://security.ine.com/certifications/ejpt-certification/), [eCPPT](https://security.ine.com/certifications/ecppt-certification/), [CRTP](https://www.alteredsecurity.com/adlab), [CRTE*](https://www.credential.net/group/140741), [PNPT*](https://certifications.tcm-sec.com/pnpt/)
