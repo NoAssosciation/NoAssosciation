@@ -5,12 +5,8 @@
 🌱 **Projects**:
 
 - `💉` **`maldev`**<br>
-\\___[  My attempts on learning and creating malware<br>
+\\___[  My attempts on learning and creating malware <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`,
-
-- `💰` **`bloxflip-autogambler`**<br>
-\\___[  My open source and free auto gambler for bloxflip<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `TypeScript, HTML, JavaScript`,
 
 - `🌙` **`NightFall`**<br>
 \\___[  Open source Osint tool<br>
