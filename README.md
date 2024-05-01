@@ -23,7 +23,6 @@
 ![image](https://github.com/NoAssosciation/NoAssosciation/assets/166069147/6a7e7282-ebf8-469d-a2a7-dfba4398c721)
 
 ## `🤳` SOCIALS
-[![](https://skillicons.dev/icons?i=linkedin,)](https://skillicons.dev) 
 
-🤳 **Socials can be found linked on profile**
+**Socials can be found linked on profile**
 
