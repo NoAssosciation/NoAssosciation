@@ -12,7 +12,7 @@
 \\___[  Open source Osint tool<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
 
-⭐ **Certifications**: [C|EH Practical](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh-v12/),
+⭐ **Certifications**: Working on: C|EH 
 
 ## `👨‍💻` DEVELOPMENT
 [![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,neovim,vim,visualstudio,vscode,arch,windows)](https://skillicons.dev)
