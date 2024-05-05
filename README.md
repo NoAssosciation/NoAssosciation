@@ -26,3 +26,6 @@
 
 **Socials can be found linked on profile**
 
+
+PS: I know that you spell association without the c
+
