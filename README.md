@@ -27,5 +27,5 @@
 **Socials can be found linked on profile**
 
 
-PS: I know that you spell association without the c
+PS: I know that you spell association without the extra s its just a username.
 
