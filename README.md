@@ -12,9 +12,6 @@
 \\___[  Open source Osint tool<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
 
-- `👻` **`No Assosciation Stealer`**<br>
-\\___[  Uses python to grab information on PC and send to discord webhook<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
 
 ⭐ **Certifications**: Working on: C|EH 
 
