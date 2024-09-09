@@ -2,22 +2,26 @@
 
 🌱 **Projects**:
 - `💲` **`Blackjack`**<br>
-\\___[  Open source Osint tool<br>
+\\___[  Blackjack game<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
 
 - `💉` **`maldev`**<br>
 \\___[  My attempts on learning and creating malware (NOW PRIVATED)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`,
 
+- `💰` **`NoAssosciation Stealer`**<br>
+\\___[  Open Source python stealer. For educatinal purposes no obfuscation fully detected by AVs.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
+
 - `🌙` **`NightFall`**<br>
-\\___[  Open source Osint tool<br>
+\\___[  Open source osint tool<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
 
 
-⭐ **Certifications**: Working on: CRTP
+⭐ **Certifications**: 😥
 
 ## `👨‍💻` DEVELOPMENT
-[![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,neovim,vim,visualstudio,vscode,arch,windows)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,bash,powershell,visualstudio,vscode,arch,windows)](https://skillicons.dev)
 
 
 ## `🤳` SOCIALS
