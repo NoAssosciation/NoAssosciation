@@ -18,7 +18,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
 
 
-⭐ **Certifications**: 😥
+⭐ **Certifications**:    😥
 
 ## `👨‍💻` DEVELOPMENT
 [![](https://skillicons.dev/icons?i=python,bash,powershell,visualstudio,vscode,arch,windows)](https://skillicons.dev)
