@@ -1,6 +1,9 @@
 💬 **NoAssosciation**: Highschool / cybersecurity student and an offensive security enthusiast focusing on offensive development, operating system internals, reverse engineering, and red teaming.
 
 🌱 **Projects**:
+- `💲` **`Blackjack`**<br>
+\\___[  Open source Osint tool<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
 
 - `💉` **`maldev`**<br>
 \\___[  My attempts on learning and creating malware (NOW PRIVATED)<br>
