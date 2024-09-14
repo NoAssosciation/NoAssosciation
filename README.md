@@ -1,8 +1,17 @@
 💬 **NoAssosciation**: Highschool / cybersecurity student and an offensive security enthusiast focusing on offensive development, operating system internals, reverse engineering, and red teaming.
 
 🌱 **Projects**:
+
+- `🔑` **`Discord Keylogger`**<br>
+\\___[  Simple keylogger using discord as a C2<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
+
 - `💲` **`Blackjack`**<br>
 \\___[  Blackjack game<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
+
+- `🌙` **`NightFall`**<br>
+\\___[  Open source osint tool<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
 
 - `💉` **`maldev`**<br>
@@ -13,9 +22,7 @@
 \\___[  Open Source python stealer. For educatinal purposes no obfuscation fully detected by AVs.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
 
-- `🌙` **`NightFall`**<br>
-\\___[  Open source osint tool<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
+
 
 
 ⭐ **Certifications**:    😥
