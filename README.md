@@ -19,7 +19,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`,
 
 - `💰` **`NoAssosciation Stealer`**<br>
-\\___[  Open Source python stealer. For educatinal purposes no obfuscation fully detected by AVs.<br>
+\\___[  Open Source python stealer. For educatinal purposes no obfuscation fully detected by AVs. (MADE USING BY SAMPLING CODE FROM OTHER STEALERS NOT FROM SCRATCH)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
 
 
